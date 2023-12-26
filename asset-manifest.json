@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Socket-io-chatting-app/static/css/main.6a49acaf.css",
+    "main.js": "/Socket-io-chatting-app/static/js/main.f840c0ca.js",
+    "static/js/787.3ad2c4f6.chunk.js": "/Socket-io-chatting-app/static/js/787.3ad2c4f6.chunk.js",
+    "index.html": "/Socket-io-chatting-app/index.html",
+    "main.6a49acaf.css.map": "/Socket-io-chatting-app/static/css/main.6a49acaf.css.map",
+    "main.f840c0ca.js.map": "/Socket-io-chatting-app/static/js/main.f840c0ca.js.map",
+    "787.3ad2c4f6.chunk.js.map": "/Socket-io-chatting-app/static/js/787.3ad2c4f6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a49acaf.css",
+    "static/js/main.f840c0ca.js"
+  ]
+}
